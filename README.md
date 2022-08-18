@@ -5,3 +5,6 @@
 
 ## Physics
 * [Continuum Mechanics](https://www.continuummechanics.org/)
+
+## Programming/Computer Science
+* [Git - The Simple Guide](https://rogerdudler.github.io/git-guide/)
