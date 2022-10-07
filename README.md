@@ -15,5 +15,5 @@
 
 ## Programming/Computer Science
 * [Git - The Simple Guide](https://rogerdudler.github.io/git-guide/)
-
+* [Dynamic AABB Trees](https://box2d.org/files/ErinCatto_DynamicBVH_GDC2019.pdf)
 
