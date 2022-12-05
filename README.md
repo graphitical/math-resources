@@ -6,6 +6,7 @@
 * [Math ∩ Programming](https://jeremykun.com/)
   * [Linear Algebra Primer](https://jeremykun.com/2011/06/19/linear-algebra-a-primer/)
   * [Inner Product Primer](https://jeremykun.com/2011/07/25/inner-product-spaces-a-primer/)
+  * [Useful 3D Geometry Algorithms](https://vicrucann.github.io/tutorials/3d-geometry-algorithms/)
 
 ## Linear Algebra
 * [Interactive Linear Algebra, by Dan Margalit and Joseph Rabinoff](https://textbooks.math.gatech.edu/ila/index.html)
