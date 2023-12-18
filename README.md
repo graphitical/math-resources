@@ -26,11 +26,12 @@
 
 # Tools
 * [Inverse Symbolic Calculator](https://wayback.cecm.sfu.ca/projects/ISC/ISCmain.html) - Useful for seeing if a number you're getting is related to some other kinds of constants/expressions
-* [Integer sequences](https://oeis.org/)
+* [Integer Sequences](https://oeis.org/)
 
 # Documents
-* [Useful inequalities](documents/ineq.pdf)
+* [Useful Inequalities](documents/ineq.pdf)
 * [Matrix Algebra Cookbook](documents/matrixcookbook.pdf)
+* [Robust Calculation of Angles](documents/anglecalc.pdf)
 
 # Ideas
 * Use complex numbers when doing simple 2D vector math. It simplifies rotations and scaling of vectors.
@@ -38,6 +39,6 @@
 # Mental Math and Simplifications
 * $\phi \approx 1.618034$ and 1 mile $\approx$ 1.609344, so miles to km conversions can use the Fibonacci sequence. 130 km/hr $\approx$ 80 mph
 * 1 lightnanosecond $\approx$ 1 foot
-* $2^10 \approx 10^3$ for making powers of 2 easier
+* $2^{10} \approx 10^3$ for making powers of 2 easier
 * $1-x \leq e^{-x}$
 
